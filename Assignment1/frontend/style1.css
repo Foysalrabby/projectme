@@ -1,0 +1,144 @@
+body{
+    background-color: #13141b;
+    color: #ffffff;
+    background-image: url(images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+}
+
+.form-control{
+    background-color:rgba(255, 255, 255, 0.2);
+    padding: 22px;
+    border: none;
+    border-radius: 25px;
+}
+
+
+
+
+#ulnavbar li a:hover{
+    background-color: rgb(55, 55, 209);
+    
+  }
+
+
+.btn{
+    border-radius: 1.5rem;
+    padding: 9px 20px;
+}
+
+.btn-privious{
+    background: rgba(255, 255, 255, 0.2);
+    color: #ffffff;
+}
+/* .navbar-toggler {
+    border: none;
+} */
+.search-box{
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+}
+.single-result{
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+}
+#lastfoot{
+    background-color: rgb(48, 48, 45);
+}
+
+#lastfoot i{
+   padding:5px ;
+}
+
+
+#home1 #cradbody1{
+background-color: rgb(168, 211, 211) ;
+
+}
+
+#home1 #cradbody1 a {
+    text-decoration: none;
+    color: #13141b;
+
+}
+#home1 #cradbody1  i {
+padding-left: 2px;
+padding-right: 2px;
+
+}
+
+/* Pagination  Styling */
+#home1 .pagination {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+
+#home1 .pagination li {
+    display:inline-block;
+    margin: 0 5px 0 0;
+    margin-top: 10px;
+}
+
+#home1 .pagination li a {
+    border: none;
+    background: #1e90ff;
+    color: #fff;
+    text-decoration:none;
+    padding: 10px;
+}
+#home1 ul li a{
+    text-decoration:none; 
+}
+#home1 .pagination li a:hover,
+#home1 .pagination > li > a:focus{
+    color:#fff;
+    background:#333;
+   
+}
+
+
+#home1 .page_links {
+    background-color: #ccc;
+    font-family: arial, verdana;
+    font-size: 12px;
+    border:1px solid #000;
+    padding: 6px;
+    margin: 3px;
+}
+#home1 #page_a_link{
+    font-size: 12px;
+    border:1px #000000 solid;
+    color:#000;
+    background-color: #cccccc;
+    padding: 6px;
+    margin: 3px;
+    text-decoration: none;
+}
+#home1 #cradbody11{
+
+    margin-left: -35px;
+}
+
+#home1 #cradbody11 a {
+    text-decoration: none;
+    color: #13141b;
+
+}
+#home1 #cradbody11 i {
+padding-left: 2px;
+padding-right: 2px;
+
+}
+
+
+#home1 i.fa{
+    color:#222;
+}
